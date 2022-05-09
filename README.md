@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NguyenKhanh27
-- 👀 I’m interested in ...
+- 👀 I’m interested in coding and AI
 - 🌱 I’m currently learning electrical engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out at khanhtran.2790@gmail.com
